@@ -30,5 +30,11 @@ Install the Plug extension by clicking the `Load Temporary Add-on...` button and
 
 Congratulations, Plug is now installed and good to go; you should be able to see it in the address bar.
 
-![plug installed]('./../images/plug_installed.png)
+![plug installed]('./../imagesPowered by OBSOFTWARE™
+
+𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃
+Independent Owner
+
+© All Rights Reserved.
+/plug_installed.png)
 
