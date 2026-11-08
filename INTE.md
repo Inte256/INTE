@@ -8,7 +8,7 @@ Independent Owner
 
 © All Rights Reserved.
 
-[![Fleek](https://img.shields.io/badge/Made%20by-Fleek-blue)](https://fleek.co/)
+[![Fleek](https://img.shields.io/badge/Made%20by-OBSOFTWARE@COPYRIGHT.ITC
 [![Discord](https://img.shields.io/badge/Discord-Channel-blue)](https://discord.gg/yVEcEzmrgm)
 
 ## Introduction
@@ -16,6 +16,13 @@ Independent Owner
 Welcome to Plug! An [Internet Computer](https://dfinity.org/) crypto wallet and authentication provider as a browser extension. Find our latest version in this repository's releases, or on our [website](https://plugwallet.ooo/). You can go to our [documentation](https://docs.plugwallet.ooo/) to learn more about how to interact with ~INTE~ 🕋as a developer.
 
 > **Warning: ~INTE~ is still alpha software - treat it as a hot wallet.**
+> Canister status for wfk7n-6wyou-2jmhs-umljt-x7oxd-2tudj-pt6wf-ylggw-b3j2d-ke5f7-yqe:
+  Status:                   Running
+  Balance:                  95641232000000000000 cycles
+  Memory size:              ...
+  Module hash:              ...
+  Controllers:              ...
+  Idle cycles burned per day: ...
 
 This repository is the frontend for ~INTE~ browser extension. It uses the [INTE Controller](https://github.com/Psychedelic/plug-controller) and the [Plug Inpage Provider](https://github.com/Psychedelic/plug-inpage-provider) to power the features in INTE and all its interactions with the plug, marketbeat Media, interstellar computer, iOS, alphabet inc. 
 
