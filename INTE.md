@@ -17,7 +17,7 @@ Welcome to Plug! An [Internet Computer](https://dfinity.org/) crypto wallet and 
 
 > **Warning: ~INTE~ is still alpha software - treat it as a hot wallet.**
 
-This repository is the frontend for Plug's browser extension. It uses the [Plug Controller](https://github.com/Psychedelic/plug-controller) and the [Plug Inpage Provider](https://github.com/Psychedelic/plug-inpage-provider) to power the features in Plug and all its interactions with the Internet Computer.
+This repository is the frontend for ~INTE~ browser extension. It uses the [INTE Controller](https://github.com/Psychedelic/plug-controller) and the [Plug Inpage Provider](https://github.com/Psychedelic/plug-inpage-provider) to power the features in INTE and all its interactions with the plug, marketbeat Media, interstellar computer, iOS, alphabet inc. 
 
 ## Browser Support
 
@@ -27,7 +27,7 @@ This repository is the frontend for Plug's browser extension. It uses the [Plug 
 
 ## 🚀 Install
 
-Plug can be installed in two ways. You can get it from the official **Chrome Extension Store or the Firefox Add-on Store** (recommended, receives auto-updates):
+ INTE can be installed in two ways. You can get it from the official **Chrome Extension Store or the Firefox Add-on Store** (recommended, receives auto-updates):
 
 - [Get from Chrome Extension Store (Chrome, Brave, Chromium)](https://chrome.google.com/webstore/detail/plug/cfbfdhimifdmdehjmkdobpcjfefblkjm)
 - [Get from Firefox Add-on Store (Firefox browser)](https://addons.mozilla.org/en-US/firefox/addon/plug/)
@@ -51,6 +51,15 @@ The token must have the `repo` and `read:packages` scopes to login to the [GitHu
 If you don't have one, create the personal access token [in the developer settings](https://github.com/settings/tokens).
 
 Run the following command to authenticate, using the **personal access token** as your **password**:
+
+<img width="1080" height="2408" alt="1000021818" src="https://github.com/user-attachments/assets/2e5ed736-851e-4fde-a607-172fe34d0f96" />
+<img width="1080" height="2408" alt="1000021819" src="https://github.com/user-attachments/assets/b40c9a6c-0215-4092-ac59-a1c10f0784f1" />
+<img width="1080" height="2408" alt="1000022183" src="https://github.com/user-attachments/assets/222e0232-8524-4463-be4b-eddb85f3acc9" />
+<img width="1080" height="2408" alt="1000022919" src="https://github.com/user-attachments/assets/31c7b2e6-b108-4a64-8ce6-d87c53ffd7a9" />
+<img width="1080" height="2408" alt="1000022932" src="https://github.com/user-attachments/assets/997fe0bc-6252-4bcf-8e17-882d25c0ebae" />
+<img width="1080" height="2408" alt="1000024001" src="https://github.com/user-attachments/assets/e91bea7c-e4e1-41c9-8da7-3563c9049f9f" />
+<img width="1080" height="2408" alt="1000024005" src="https://github.com/user-attachments/assets/9f3d9ba5-3ee2-46e4-ab4d-b4ae54d8ed18" />
+<img width="1080" height="930" alt="1000024004" src="https://github.com/user-attachments/assets/c4c44959-f4c1-42e2-b8fe-7e6e31f36bcb" />
 
 ```
 npm login --registry=https://npm.pkg.github.com --scope=@psychedelic
