@@ -1,6 +1,6 @@
 ![](https://storageapi.fleek.co/fleek-team-bucket/plug-banner.png)
 
-# Plug
+# INTE 
 
 [![Fleek](https://img.shields.io/badge/Made%20by-Fleek-blue)](https://fleek.co/)
 [![Discord](https://img.shields.io/badge/Discord-Channel-blue)](https://discord.gg/yVEcEzmrgm)
